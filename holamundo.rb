@@ -1,1 +1,1 @@
-puts 'hola mundo'
+puts "Hola #{ARGV.shift}"
